@@ -1,0 +1,36 @@
+.browser-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.time {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+
+.browser_pic {
+  height: 20px;
+  width: 20px;
+}
+
+.title {
+  color: #475569;
+  font-family: 'Roboto';
+}
+
+.domain {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 24px;
+  width: 24px;
+}
